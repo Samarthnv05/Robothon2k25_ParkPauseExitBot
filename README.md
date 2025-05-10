@@ -24,6 +24,6 @@ This repository contains the Arduino code and logic for a line follower robot th
 - Power Supply (Battery)
 
 ## Code
-Check the `main.ino` file for full logic.
+Check the `LFR.ino` file for full logic.
 
 Feel free to fork or improve!
